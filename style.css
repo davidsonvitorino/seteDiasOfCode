@@ -1,0 +1,57 @@
+@import url('');
+
+:root {
+    --cor-principal: #ffffff;
+    --cor-texto: #667085;
+    --cor-titulo: #101828;
+    --cor-cabecalho: #3A404E;
+    --cor-cadastrar: #8E2424;
+
+    --fonte-principal: 'Inter', sans-serif;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1.2rem;
+    font-family: var(--fonte-principal);
+    font-weight: 600;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.botoes-links-ancora a{
+    margin: 2rem;
+    text-decoration: none;
+    color: var(--cor-texto);
+}
+
+.botoes-ancora {
+    display: flex;
+}
+
+.botao-ancora {
+    text-decoration: none;
+    color: var(--cor-texto);
+    margin: 1rem;
+}
+
+.botao-entrar {
+    padding: 1rem;
+}
+
+.botao-cadastro {
+    background: var(--cor-cadastrar);
+    color: #fff;
+    padding: 1rem 1.5rem;
+    border-radius: 10px;
+}
+
