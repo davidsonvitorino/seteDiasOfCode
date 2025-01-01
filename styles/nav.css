@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.botoes-links-ancora a{
+    margin: 2rem;
+    text-decoration: none;
+    color: var(--cor-texto);
+}
+
+.botoes-ancora {
+    display: flex;
+}
+
+.botao-ancora {
+    text-decoration: none;
+    color: var(--cor-texto);
+    margin: 1rem;
+}
+
+.botao-entrar {
+    padding: 1rem;
+}
+
+.botao-cadastro {
+    background: var(--cor-cadastrar);
+    color: #fff;
+    padding: 1rem 1.5rem;
+    border-radius: 10px;
+}
