@@ -6,10 +6,6 @@
     font-size: 2rem;
 }
 
-.cabecalho-container {
-    
-}
-
 .cabecalho-titulo {
     font-family: var(--fonte-principal);
     color: var(--cor-titulo);
