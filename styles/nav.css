@@ -1,3 +1,8 @@
+.logo-imagem {
+    margin-top: 1.5rem;
+    width: 150%;
+}
+
 .container {
     display: flex;
     justify-content: space-around;
@@ -5,9 +10,10 @@
 }
 
 .botoes-links-ancora a{
-    margin: 2rem;
+    margin: 2rem 2rem;
     text-decoration: none;
     color: var(--cor-texto);
+    
 }
 
 .botoes-ancora {
