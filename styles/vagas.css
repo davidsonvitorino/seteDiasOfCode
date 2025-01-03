@@ -1,0 +1,48 @@
+.vagas {
+    width: 40%;
+    border-radius: 10px;
+    margin: auto;
+    align-items: center;
+}
+
+.card-vaga {
+    border: 1px solid var(--cor-texto);
+    border-radius: 10px;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+.titulo-vaga {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--cor-titulo);
+}
+
+.subtitulo-vaga {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--cor-titulo);
+}
+
+.subtitulo-vaga,
+.informacoes-vaga {
+    margin: 2rem;
+}
+
+.informacoes-vaga {
+    display: flex;
+    margin: 2rem;
+}
+
+.texto-vaga {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--cor-texto);
+}
+
+.salario-texto-vaga {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-left: 1rem;
+    color: var(--cor-texto);
+}

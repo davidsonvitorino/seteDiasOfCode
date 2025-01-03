@@ -1,0 +1,36 @@
+.topico {
+    margin: auto;
+    margin-bottom: 5rem;
+    border-radius: 10px;
+    width: 80%;
+    background: rgba(247, 218, 218, 0.301);
+    text-align: center;
+}
+
+.topico-texto {
+    font-size: 0.8rem;
+    color: var(--cor-destaque);
+    margin: 2rem;
+    padding-top: 5rem;
+}
+
+.topico-titulo-texto {
+    font-size: 2rem;
+    width: 70%;
+    margin: auto;
+}
+
+img {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.nome-desenvolvedora {
+    margin: 1rem;
+}
+
+.nome-texto {
+    font-size: 1rem;
+    color: var(--cor-texto);
+    padding-bottom: 3rem;
+}

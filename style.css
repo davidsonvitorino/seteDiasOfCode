@@ -1,14 +1,17 @@
 @import url("styles/nav.css");
 @import url("styles/header.css");
 @import url("styles/section.css");
+@import url("styles/talentos.css");
+@import url("styles/vagas.css");
+@import url("styles/topico.css");
 
 :root {
     --cor-principal: #ffffff;
     --cor-texto: #667085;
     --cor-titulo: #101828;
     --cor-cabecalho: #3A404E;
-    --cor-cadastrar: #8E2424;
     --cor-destaque: #8E2424;
+    --cor-fundo: #C31919;
 
     --fonte-principal: 'Inter', sans-serif;
 }

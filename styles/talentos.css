@@ -1,0 +1,34 @@
+.section-talentos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.talentos-botao {
+    margin: 20rem 0 2rem;
+    padding: 0.6rem;
+    border-radius: 50px;
+    background: rgb(243, 213, 213);
+    color: var(--cor-destaque);
+}
+
+.talentos-botao-texto {
+    font-size: 0.8rem;
+}
+
+.talentos-subtitulo {
+    font-size: 2rem;
+    color: var(--cor-titulo);
+    font-weight: 700;
+}
+
+.talentos-texto {
+    font-size: 1.4rem;
+    color: var(--cor-texto);
+    margin: 2rem;
+}
+
+.imagem-pessoas {
+    width: 80%;
+    margin: 2rem 0 4rem; 
+}
