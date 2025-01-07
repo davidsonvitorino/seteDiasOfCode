@@ -4,6 +4,7 @@
 @import url("styles/talentos.css");
 @import url("styles/vagas.css");
 @import url("styles/topico.css");
+@import url("styles/rodape.css");
 
 :root {
     --cor-principal: #ffffff;
@@ -12,6 +13,7 @@
     --cor-cabecalho: #3A404E;
     --cor-destaque: #8E2424;
     --cor-fundo: #C31919;
+    --cor-rodape: #F9FAFB;
 
     --fonte-principal: 'Inter', sans-serif;
 }
